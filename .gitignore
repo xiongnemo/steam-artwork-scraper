@@ -1,3 +1,13 @@
+# vscode
+.vscode/
+
+# cached html
+*.html
+
+# downloaded
+
+downloaded/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
