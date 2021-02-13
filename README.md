@@ -23,6 +23,12 @@ def show_help():
     print("If you do not supply command line argument, the script will ask for the <Steam Appid> at startup.")
 ```
 
+## Folder
+
+`./downloaded/`
+
+![](./doc/img/download_folder_structure.png)
+
 ## Screenshot
 
 ![](./doc/img/example.png)
